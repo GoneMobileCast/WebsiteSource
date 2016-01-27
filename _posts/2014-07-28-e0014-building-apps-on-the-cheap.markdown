@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 14: Building Apps on the Cheap"
+title: "Gone Mobile 14: Building Apps on the Cheap"
 date: 2014-07-28 10:00
 comments: true
 categories: episodes

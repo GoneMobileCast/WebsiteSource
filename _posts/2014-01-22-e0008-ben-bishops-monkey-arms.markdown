@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 8: Ben Bishop's Monkey Arms"
+title: "Gone Mobile 8: Ben Bishop's Monkey Arms"
 date: 2014-01-24 09:00
 comments: true
 categories: episodes

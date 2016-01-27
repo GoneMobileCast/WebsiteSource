@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 10: Couchbase Lite"
+title: "Gone Mobile 10: Couchbase Lite"
 date: 2014-03-25 09:00
 comments: true
 categories: episodes

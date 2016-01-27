@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 26: Prism for Xamarin.Forms with Brian Lagunas"
+title: "Gone Mobile 26: Prism for Xamarin.Forms with Brian Lagunas"
 date: 2015-06-16 09:30
 comments: true
 categories: episodes

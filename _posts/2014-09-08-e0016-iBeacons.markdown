@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 16: iBeacons"
+title: "Gone Mobile 16: iBeacons"
 date: 2014-09-08 09:00
 comments: true
 categories: episodes

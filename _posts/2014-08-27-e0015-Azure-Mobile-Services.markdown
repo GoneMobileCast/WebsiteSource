@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 15: Azure Mobile Services"
+title: "Gone Mobile 15: Azure Mobile Services"
 date: 2014-08-27 9:00
 comments: true
 categories: episodes

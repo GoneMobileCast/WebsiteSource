@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 17: What's New in iOS8"
+title: "Gone Mobile 17: What's New in iOS8"
 date: 2014-10-02 09:30
 comments: true
 categories: episodes

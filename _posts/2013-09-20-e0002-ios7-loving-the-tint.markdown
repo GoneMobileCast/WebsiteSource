@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 2: iOS7 Loving the Tint"
+title: "Gone Mobile 2: iOS7 Loving the Tint"
 date: 2013-09-20 15:55
 comments: true
 categories: episodes

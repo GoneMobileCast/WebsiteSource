@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 6: Jesse Liberty and Xamarin.Android"
+title: "Gone Mobile 6: Jesse Liberty and Xamarin.Android"
 date: 2013-11-26 15:30
 comments: true
 categories: episodes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 19: Exploring Runscope with John Sheehan"
+title: "Gone Mobile 19: Exploring Runscope with John Sheehan"
 date: 2014-10-27 12:00
 comments: true
 categories: episodes

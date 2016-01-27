@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 7: The F# is for Frank Krueger"
+title: "Gone Mobile 7: The F# is for Frank Krueger"
 date: 2013-12-19 20:14
 comments: true
 categories: episodes

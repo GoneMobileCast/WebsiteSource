@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 28: Behind the Scenes of Xamarin.Forms with Jason Smith"
+title: "Gone Mobile 28: Behind the Scenes of Xamarin.Forms with Jason Smith"
 date: 2015-08-26 09:40
 comments: true
 categories: episodes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 1: Hello World"
+title: "Gone Mobile 1: Hello World"
 date: 2013-09-02 12:19
 comments: true
 categories: episodes

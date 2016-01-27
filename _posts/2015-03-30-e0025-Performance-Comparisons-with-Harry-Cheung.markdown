@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 25: Performance Comparisons: Part Two with Harry Cheung"
+title: "Gone Mobile 25: Performance Comparisons: Part Two with Harry Cheung"
 date: 2015-03-30 09:30
 comments: true
 categories: episodes

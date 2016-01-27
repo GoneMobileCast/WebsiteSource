@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 18: Securing Mobile Apps with Troy Hunt"
+title: "Gone Mobile 18: Securing Mobile Apps with Troy Hunt"
 date: 2014-10-13 09:30
 comments: true
 categories: episodes

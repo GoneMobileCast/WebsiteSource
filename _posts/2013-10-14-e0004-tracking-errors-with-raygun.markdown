@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 4: Tracking Errors with Raygun"
+title: "Gone Mobile 4: Tracking Errors with Raygun"
 date: 2013-10-14 10:52
 comments: true
 categories: episodes

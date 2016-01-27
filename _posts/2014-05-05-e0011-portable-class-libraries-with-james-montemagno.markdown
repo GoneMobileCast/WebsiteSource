@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 11: Portable Class Libraries (PCL's) with James Montemagno"
+title: "Gone Mobile 11: Portable Class Libraries (PCL's) with James Montemagno"
 date: 2014-05-05 09:00
 comments: true
 categories: episodes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 9: Marketing Yourself with John Sonmez"
+title: "Gone Mobile 9: Marketing Yourself with John Sonmez"
 date: 2014-02-06 11:30
 comments: true
 categories: episodes

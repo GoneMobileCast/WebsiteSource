@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 27: Automated App Testing with Niels Frydenholm"
+title: "Gone Mobile 27: Automated App Testing with Niels Frydenholm"
 date: 2015-07-07 09:30
 comments: true
 categories: episodes

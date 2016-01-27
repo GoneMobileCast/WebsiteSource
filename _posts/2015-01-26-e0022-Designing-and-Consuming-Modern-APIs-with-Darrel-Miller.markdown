@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 22: Designing and Consuming Modern APIs with Darrel Miller"
+title: "Gone Mobile 22: Designing and Consuming Modern APIs with Darrel Miller"
 date: 2015-01-26 09:30
 comments: true
 categories: episodes

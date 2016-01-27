@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 3: Bettsing on Reactive"
+title: "Gone Mobile 3: Bettsing on Reactive"
 date: 2013-10-01 11:51
 comments: true
 categories: episodes

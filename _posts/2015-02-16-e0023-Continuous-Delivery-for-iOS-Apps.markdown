@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 23: Continuous Delivery for iOS Apps with Felix Krause"
+title: "Gone Mobile 23: Continuous Delivery for iOS Apps with Felix Krause"
 date: 2015-02-16 09:30
 comments: true
 categories: episodes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 20: Mobile Web Performance with Tammy Everts"
+title: "Gone Mobile 20: Mobile Web Performance with Tammy Everts"
 date: 2014-11-19 10:00
 comments: true
 categories: episodes

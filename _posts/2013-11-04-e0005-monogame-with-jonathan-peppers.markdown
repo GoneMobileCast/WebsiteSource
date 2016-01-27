@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 5: MonoGame with Jonathan Peppers"
+title: "Gone Mobile 5: MonoGame with Jonathan Peppers"
 date: 2013-11-04 15:00
 comments: true
 categories: episodes

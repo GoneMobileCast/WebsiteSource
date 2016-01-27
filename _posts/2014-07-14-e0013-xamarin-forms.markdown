@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 13: Xamarin.Forms"
+title: "Gone Mobile 13: Xamarin.Forms"
 date: 2014-07-14 09:00
 comments: true
 categories: episodes

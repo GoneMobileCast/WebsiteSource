@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 24: Cross-Platform Performance Comparisons with Kevin Ford"
+title: "Gone Mobile 24: Cross-Platform Performance Comparisons with Kevin Ford"
 date: 2015-03-22 09:30
 comments: true
 categories: episodes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 12: AppLinks are Riveting"
+title: "Gone Mobile 12: AppLinks are Riveting"
 date: 2014-05-30 09:00
 comments: true
 categories: episodes

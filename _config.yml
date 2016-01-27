@@ -27,3 +27,5 @@ google_analytics_tracking_id: UA-6465612-22
 disqus_short_name: gonemobile
 disqus_show_comment_count: true
 
+exclude:
+  - README.md

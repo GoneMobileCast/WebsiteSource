@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Gone Mobile 30: Hexagonal App Architecture with Chris Williams"
+date: 2016-02-16 09:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0030.Hexagonal.App.Architecture.with.Chris.Williams.mp3
+duration: 38:00
+length: 43652218
+summary: In this episode we talk to Chris Williams about hexagonal architectures and how it applies to building cross-platform mobile apps. We dig into what the architecture tries to achieve, the benefits you get from approaching software design with it in mind, and how you might already be doing it without even knowing it!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guest:** [Chris Williams](https://twitter.com/crswlls)
+
+**Links:** 
+
+- [MixRadio](http://www.mixradiomusic.com/)
+- [Think Hexagonal Architecture for Cross-Platform Mobile Applications](https://crswlls.wordpress.com/2016/01/11/think-hexagonal-architecture-for-cross-platform-mobile-applications/)
+- [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+- [Chris Williams at Evolve 2016](https://evolve.xamarin.com/?speaker=ChrisWilliams#speaker)
+
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun.markdown %}

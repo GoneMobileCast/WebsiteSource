@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Gone Mobile 31: FreshMvvm with Michael Ridland"
+date: 2016-03-23 09:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0031.FreshMvvm.with.Michael.Ridland.mp3
+duration: 34:19
+length: 34582036
+summary: In this episode we talk to Michael Ridland about his experiences as a Xamarin consultant, and dig into his new MVVM framework made specifically for Xamarin Forms called FreshMvvm!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guest:** [Michael Ridland](https://twitter.com/rid00z)
+
+**Links:** 
+
+- [FreshMvvm 1.0 Released](http://www.michaelridland.com/xamarin/freshmvvm-1-0-released/)
+- [FreshMvvm on GitHub](https://github.com/rid00z/FreshMvvm)
+- [have i been pwned?](https://play.google.com/store/apps/details?id=com.versluisit.haveibeenpwned)
+
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun.markdown %}

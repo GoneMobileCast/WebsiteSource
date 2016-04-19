@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Gone Mobile 32: Bitrise with Barnabas Birmacher and Daniel Balla"
+date: 2016-04-19 16:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0032.Bitrise.with.Barnabas.Birmacher.and.Daniel.Balla.mp3
+duration: 41:52
+length: 26423973
+summary: In this episode we're joined by Barnabas Birmacher and Daniel Balla to talk about their continunous integration solution for mobile apps. Looking to get started adding CI for your apps? Listen in to find out how!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guest:** [Barnabas Birmacher](https://twitter.com/birmacher), [Daniel Balla](https://twitter.com/bloodrabbit3)
+
+**Links:** 
+
+- [Bitrise](https://www.bitrise.io/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun.markdown %}

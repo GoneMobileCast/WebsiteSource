@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Gone Mobile 33: Realm with Tim Anglade and Kristian Dupont"
+date: 2016-06-01 09:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0033.Realm.with.Tim.Anglade.and.Kristian.Dupont.mp3
+duration: 59:13
+length: 78634754
+summary: In this episode we're joined by Tim Anglade and Kristian Dupont from Realm, a mobile-focused database solution that recently launched support for Xamarin.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guest:** [Tim Anglade](https://twitter.com/timanglade), [Kristian Dupont](https://twitter.com/kristiandupont)
+
+**Links:** 
+
+- [Realm](https://realm.io/)
+- [Introducing Realm Xamarin](https://realm.io/news/introducing-realm-xamarin/)
+- [Realm on GitHub](https://github.com/realm/realm-dotnet)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun.markdown %}

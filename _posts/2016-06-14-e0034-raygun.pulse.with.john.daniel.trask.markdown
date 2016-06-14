@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 34: Raygun Pulse with John-Daniel Trask"
+date: 2016-06-14 03:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0034.Raygun.Pulse.with.John.Daniel.Trask.mp3
+duration: 50:24
+length: 65016507
+summary: In this episode we're joined by John-Daniel Trask, founder and CEO of Raygun, to talk about Pulse - their Real User Monitoring solution for web and mobile apps.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guest:** [John-Daniel Trask](https://twitter.com/traskjd)
+
+**Links:** 
+
+- [Raygun Pulse](https://raygun.com/products/real-user-monitoring)
+- [Gone Mobile 4: Tracking Errors with Raygun](http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

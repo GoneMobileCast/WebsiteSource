@@ -22,7 +22,7 @@ summary: In this episode we're joined by John-Daniel Trask, founder and CEO of R
 
 **Links:** 
 
-- [Raygun Pulse](https://raygun.com/products/real-user-monitoring)
+- [Raygun Pulse - Real User Monitoring](https://raygun.com/products/real-user-monitoring)
 - [Gone Mobile 4: Tracking Errors with Raygun](http://gonemobile.io/blog/e0004-tracking-errors-with-raygun/)
 
 **Thanks to our Sponsors!**

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 35: Mobile Testing with Alexandra Marin"
+date: 2016-07-05 09:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0035.Mobile.Testing.with.Alexandra.Marin.mp3
+duration: 30:02
+length: 22644517
+summary: In this episode we're joined by Alexandra Marin to talk about Behavior Driven Development for Xamarin Developers
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guest:** [Alexandra Marin](https://twitter.com/xmonodev)
+
+**Links:** 
+
+- [.NET Fringe](http://dotnetfringe.org/)
+- [SpecFlow](http://www.specflow.org/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

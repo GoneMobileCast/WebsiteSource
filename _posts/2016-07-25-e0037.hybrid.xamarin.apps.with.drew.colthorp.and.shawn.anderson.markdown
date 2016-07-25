@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Gone Mobile 37: Hybrid Xamarin Apps with Drew Colthorp and Shawn Anderson"
+date: 2016-07-25 10:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0037.Hybrid.Xamarin.Apps.with.Drew.Colthorp.and.Shawn.Anderson.mp3
+duration: 55:42
+length: 67811409
+summary: Hybrid apps with Xamarin? You bet! In this episode we're joined by Drew Colthorp and Shawn Anderson to talk about why and how they converted their hybrid app, written in Ember, from Cordova to Xamarin.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Drew Colthorp](https://twitter.com/dcolthorp), [Shawn Anderson](http://twitter.com/fuzypinkbunny)
+
+**Links:** 
+
+- [Native HTML Apps with Xamarin](https://spin.atomicobject.com/2016/06/08/native-html-apps-xamarin/)
+- [Sample project](https://github.com/shawn42/xamarin-web-sample)
+- [Ember](http://emberjs.com/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

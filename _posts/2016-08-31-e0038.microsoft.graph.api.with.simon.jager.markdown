@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Gone Mobile 38: Microsoft Graph API with Simon Jager"
+date: 2016-08-31 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0038.Microsoft.Graph.API.with.Simon.Jager.mp3
+duration: 42:55
+length: Gone.Mobile.E0038.Microsoft.Graph.API.with.Simon.Jager.mp3
+summary: In this episode we learn all about the Microsoft Graph API from Simon Jager, and how you can build your mobile apps on top of its offerings. 
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Simon Jager](https://twitter.com/simonjaegr)
+
+**Links:** 
+
+- [A Xamarin Native Sample with MvvmCross for the Microsoft Graph](http://simonjaeger.com/a-xamarin-native-sample-for-the-microsoft-graph/)
+- [Microsoft Graph](https://graph.microsoft.io/en-us/)
+- [Microsoft Graph Property Manager Sample for Xamarin](https://github.com/microsoftgraph/xamarin-csharp-propertymanager-sample) 
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

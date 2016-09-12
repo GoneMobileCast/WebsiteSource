@@ -1,4 +1,3 @@
-[![http://raygun.com]({{urls.media}}/images/sponsors/raygun2016.png)](https://raygun.io/?utm_source=gonemobile&utm_medium=episodes&utm_campaign=gone-mobile)
+[![http://raygun.com]({{urls.media}}/images/sponsors/raygun2016.png)](https://raygun.com/?utm_source=link&utm_medium=logo&utm_campaign=gone-mobile)
 
-[Raygun Pulse](https://raygun.com/products/real-user-monitoring?utm_source=link&utm_medium=sponsor&utm_campaign=gone-mobile)
-is now available for mobile - Real user monitoring for your mobile apps! Get deep detail into how your mobile applications are performing for your users.
+[Raygun](https://raygun.com/?utm_source=link&utm_medium=logo&utm_campaign=gone-mobile) provides [error and crash reporting software](https://raygun.com/products/crash-reporting?utm_source=link&utm_medium=text&utm_campaign=gone-mobile) for all programming languages and platforms including iOS, Android, Xamarin, Javascript and more. Don't just log errors and crashes, solve them with Raygun!

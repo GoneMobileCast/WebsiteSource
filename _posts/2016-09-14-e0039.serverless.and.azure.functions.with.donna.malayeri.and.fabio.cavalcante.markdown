@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Gone Mobile 39: Serverless and Azure Functions with Donna Malayeri and Fabio Cavalcante"
+date: 2016-09-14 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0039.Serverless.and.Azure.Functions.with.Donna.Malayeri.and.Fabio.Cavalcante.mp3
+duration: 1:00:17
+length: 71060154
+summary: Want to know what this whole serverless thing is about? Learn all about it and what you can do with Azure Functions from Donna Malayeri and Fabio Cavalcante!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Donna Malayeri](https://twitter.com/lindydonna), [Fabio Cavalcante](https://twitter.com/codesapien)
+
+**Links:** 
+
+- [Azure Functions](http://functions.azure.com)
+- [Azure App Service Team Blog](https://blogs.msdn.microsoft.com/appserviceteam)
+- [Azure Functions Documentation](https://azure.microsoft.com/en-us/documentation/services/functions/)
+- [Azure Functions Samples](https://azure.microsoft.com/en-us/documentation/samples/?service=functions)
+- ContosoMoments: Sample Instagram clone with Xamarin.Forms, Azure App Service and Azure Functions:
+  - [Code](https://aka.ms/ContosoMomentsCode)
+  - [Website](https://aka.ms/ContosoMoments)
+  - [iOS App](https://itunes.apple.com/us/app/contoso-moments/id1118186646?ls=1&mt=8)
+- [GitHub repo](https://github.com/Azure/Azure-Functions)
+- Have questions?  The product team responds on the [Azure Functions Forum](https://social.msdn.microsoft.com/Forums/azure/en-US/home?forum=AzureFunctions) and the [StackOverflow tag azure-functions](http://stackoverflow.com/questions/tagged/azure-functions)
+- [Getting Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 40: Deep Linking and Branch with Sahil Verma"
+date: 2016-12-05 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0040.Deep.Linking.and.Branch.with.Sahil.Verma.mp3
+duration: 00:39:47
+length: 47479521
+summary: Deep linking is a great way to help provide engaging experiences for your users, but how do you get started? What can you actually do with deep links? In this episode we talk to Sahil Verma about deep linking and what Branch is doing to help app developers deliver personalized experience for their users.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Sahil Verma](https://twitter.com/sahilroyverma)
+
+**Links:** 
+
+- [Branch](https://branch.io/)
+- [Xamarin SDK](https://github.com/BranchMetrics/xamarin-branch-deep-linking)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

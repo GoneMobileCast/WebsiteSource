@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Gone Mobile 41: Mobile Game Development and CocosSharp with Brent Edwards"
+date: 2016-12-29 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0041.Mobile.Game.Development.and.CocosSharp.with.Brent.Edwards.mp3
+duration: 00:54:23
+length: 70579650
+summary: Interested in trying out some mobile game development but aren't sure where to start? In this episode we talk to Brent Edwards about how he got started, and how CocosSharp makes it easy to dive in and start creating the next big hit game!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Brent Edwards](https://twitter.com/brentledwards)
+
+**Links:** 
+
+- [CocosSharp](https://github.com/mono/CocosSharp)
+- [Mobile Game Development blog series](http://brentedwards.net/category/mobile-game-development/)
+- [Mirror Maze](http://sillydoggames.com/MirrorMaze)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

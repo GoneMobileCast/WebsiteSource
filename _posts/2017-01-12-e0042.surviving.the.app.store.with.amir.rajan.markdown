@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Gone Mobile 42: Surviving The App Store with Amir Rajan"
+date: 2017-01-12 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0042.Surviving.the.App.Store.with.Amir.Rajan.mp3
+duration: 00:59:43
+length: 70946652
+summary: The App Store is a crazy place, so why not learn the ins and outs from someone who has been through it all? In this episode we sit down with Amir Rajan, developer of the hit game A Dark Room, to talk through his experiences building a successful game, backed by a mountain of data around metrics, revenue, and more. 
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Amir Rajan](https://twitter.com/amirrajan)
+
+**Links:** 
+
+- [Surviving the App Store book](http://leanpub.com/survivingtheappstore/c/free)
+- [Amir's Blog](http://amirrajan.net/)
+- [Amir's Games](https://itunes.apple.com/us/developer/amirali-rajan/id736683064)
+- [A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

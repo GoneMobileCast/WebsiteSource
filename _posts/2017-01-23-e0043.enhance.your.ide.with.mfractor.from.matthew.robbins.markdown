@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 43: Enhance your IDE with MFractor from Matthew Robbins"
+date: 2017-01-23 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0043.MFractor.for.Xamarin.Studio.mp3
+duration: 00:39:02
+length: 32949572
+summary: Ever wish you could automate more simple tasks in Xamarin Studio or Visual Studio for Mac?  Matthew Robbins' MFractor Addin may be exactly what you're looking for with several enhancements designed to speed up the Xamarin.Forms developer experience.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Matthew Robbins](https://twitter.com/matthewrdev)
+
+**Links:** 
+
+- [MFractor](http://www.mfractor.com/)
+- [Xamarin University Guest Lecture - Building Xamarin Studio Addins](https://university.xamarin.com/guestlectures/building-xamarin-studio-addins)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

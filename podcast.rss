@@ -55,7 +55,7 @@ layout: nil
       <itunes:summary><![CDATA[{{ post.summary }}]]></itunes:summary>
       <itunes:subtitle><![CDATA[{{ post.summary }}]]></itunes:subtitle>
       <itunes:keywords><![CDATA[{{ post.keywords }}]]></itunes:keywords>
-      <itunes:duration><![CDATA[{{ post.duration }}]]></itunes:duration>      
+      <itunes:duration>{{ post.duration | floor_num }}</itunes:duration>      
       <enclosure url="{{ post.mediaurl }}" type="audio/mp3" length="{{ post.length }}" />
     </item>
     {% endfor %}

@@ -6,7 +6,7 @@ comments: true
 categories: episodes
 mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0038.Microsoft.Graph.API.with.Simon.Jager.mp3
 duration: 42:55
-length: Gone.Mobile.E0038.Microsoft.Graph.API.with.Simon.Jager.mp3
+length: 48141505
 summary: In this episode we learn all about the Microsoft Graph API from Simon Jager, and how you can build your mobile apps on top of its offerings. 
 ---
 

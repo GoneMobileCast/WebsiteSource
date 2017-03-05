@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Gone Mobile 44: Fluxing Up Your Xamarin Apps with Alex Dunn"
+date: 2017-03-06 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0044.Fluxing.Up.Your.Xamarin.Apps.mp3
+duration: 00:38:16
+length: 49445606
+summary: The Flux architectural pattern has become increasingly common in front-end development, but did you know it's also applicable to mobile apps as well? In this episode we talk to Alex Dunn about Flux, what it is, why it's useful, and his experiences applying it to his Xamarin applications.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Alex Dunn](https://twitter.com/Suave_Pirate)
+
+**Links:** 
+
+- [Video: Xamarin.Flux](https://alexdunn.org/2017/02/09/video-xamarin-flux/)
+- [Xamarin University Guest Lecture](https://university.xamarin.com/guestlectures/architecting-your-app-with-xamarin-facebook-flux)
+- [Code Sample](https://github.com/SuavePirate/Xamarin.Flux)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

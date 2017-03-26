@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Gone Mobile 45: Azure IoT with Amanda Lange"
+date: 2017-03-27 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0045.Azure.IoT.with.Amanda.Lange.mp3
+duration: 00:47:38
+length: 57016403
+summary: Over the last few years the Internet of Things has taken over the world, but what is it and what can you do with it? In this episode we're joined by Amanda Lange to walk through what it is, what kinds of experiences you can enable, and how Azure can help you manage your devices and create applications.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles)
+
+**Guests:** [Amanda Lange](https://twitter.com/second_truth)
+
+**Links:** 
+
+- [Azure IoT Developer Center](http://azure.com/iotdev)
+- [Azure IoT SDKs](https://github.com/Azure/azure-iot-sdks)
+- [Windows 10 IoT Core](https://developer.microsoft.com/en-us/windows/iot)
+- [Microsot IoT Samples](https://github.com/ms-iot)
+- [Case Studies](https://microsoft.github.io/techcasestudies/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-pulse.markdown %}

@@ -1,0 +1,3 @@
+[![http://raygun.com]({{urls.media}}/images/sponsors/raygun2017.png)](https://raygun.com/?utm_source=gonemobile)
+
+Thanks to our sponsor [Raygun](https://raygun.com/?utm_source=gone-mobile). Discover, diagnose and understand the root cause of error, crash and performance issues in your software applications in seconds! See how your applications are _really_ performing for users and where they encounter problems using Raygun's full stack [software intelligence platform](https://raygun.com/?utm_source=gone-mobile).

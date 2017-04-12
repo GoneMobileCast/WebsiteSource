@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Gone Mobile 46: Visual Studio Mobile Center with Simina Pasat and Luke Kim"
+date: 2017-04-12 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0046.Visual.Studio.Mobile.Center.with.Simina.Pasat.and.Luke.Kim.mp3
+duration: 00:44:59
+length: 54897551
+summary: When it comes to developing and maintaining mobile apps there's a lot to think about, between building, testing, distributing, monitoring, and more. In this episode we dig into Microsoft's new Visual Studio Mobile Center, which provides a solution to many of these lifecycle concerns in a single place. 
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Simina Pasat](https://twitter.com/siminapasat), [Luke Kim](https://twitter.com/0xlukekim)
+
+**Links:** 
+
+- [Visual Studio Mobile Center](https://www.visualstudio.com/vs/mobile-center/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-2017.markdown %}

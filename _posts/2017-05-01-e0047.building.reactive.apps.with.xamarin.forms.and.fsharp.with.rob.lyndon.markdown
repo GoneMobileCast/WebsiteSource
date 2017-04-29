@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 47: Building Reactive Apps with Xamarin.Forms and F# with Rob Lyndon"
+date: 2017-05-01 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0047.Building.Reactive.Apps.with.Xamarin.Forms.and.FSharp.with.Rob.Lyndon.mp3
+duration: 00:50:04
+length: 45655773
+summary: In this episode we are joined by Rob Lyndon who is working on the Xamarin.Forms.Reactive.FSharp library.  We talk to Rob about what Reactive programming is all about, and how it fits into mobile development.  Rob goes into detail about what his library does, how it helps Xamarin.Forms developers, and why he created it. 
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Rob Lyndon](https://twitter.com/roblyndon)
+
+**Links:** 
+
+- [Xamarin.Forms.Reactive.FSharp](https://github.com/SpiegelSoft/XamarinForms.Reactive.FSharp)
+- [Build a Functional Reactive Xamarin.Forms App in 30 Minutes](https://skillsmatter.com/skillscasts/9920-build-a-functional-reactive-xamarin-forms-app-in-30-minutes)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-mfractor-2017.markdown %}

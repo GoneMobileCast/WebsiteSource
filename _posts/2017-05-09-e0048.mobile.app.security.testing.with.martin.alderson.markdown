@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Gone Mobile 48: Mobile App Security Testing with Martin Alderson"
+date: 2017-05-09 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0048.Mobile.App.Security.Testing.with.Martin.Alderson.mp3
+duration: 00:27:58
+length: 34071841
+summary: How do you prevent your app from shipping with preventable security vulnerabilities? This episode we talk to Martin Alderson of Codified Security about their automated Mobile App Security testing service.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Hosts:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Martin Alderson](https://twitter.com/martinald)
+
+**Links:** 
+
+- [Codified Security](https://codifiedsecurity.com/)
+- [Xamarin App Security Testing](https://codifiedsecurity.com/xamarin-app-security-testing/)
+- [OWASP Mobile Top 10](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-2017.markdown %}

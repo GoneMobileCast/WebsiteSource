@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 49: Bot Framework with David Hamilton"
+date: 2017-05-15 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0049.Bot.Framework.with.David.Hamilton.mp3
+duration: 00:34:56
+length: 45966445
+summary: Chat bots are everywhere these days! While at Microsoft's Build conference we sat down with David Hamilton to talk about Microsoft's Bot Framework, and how it can help you start creating chat-based experiences for your users on a variety of platforms. We also take a look at his gigseekr service which leverages the Bot Framework, including a live on-air demo of interacting with it via Cortana!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Host:** [Greg Shackles](http://twitter.com/gshackles)
+
+**Guests:** [David Hamilton](https://twitter.com/daveh101)
+
+**Links:** 
+
+- [Bot Framework](https://dev.botframework.com/)
+- [gigseekr](http://www.gigseekr.com/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-mfractor-2017.markdown %}

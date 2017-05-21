@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Gone Mobile 50: Building Great App Experiences with Matt Lacey"
+date: 2017-05-22 9:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0050.Building.Great.App.Experiences.with.Matt.Lacey.mp3
+duration: 00:44:24
+length: 53978281
+summary: Designing great mobile experiences is much easier said than done, but is critical to the success of an application. In this episode we sit down with Matt Lacey to talk through what makes a great app experience, as well as some practical approaches and patterns you can use to start to use to improve the experience for your users. Usability matters!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Host:** [Greg Shackles](http://twitter.com/gshackles)
+
+**Guests:** [Matt Lacey](https://twitter.com/mrlacey)
+
+**Links:** 
+
+- [Usability Matters](https://www.manning.com/books/usability-matters)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-2017.markdown %}

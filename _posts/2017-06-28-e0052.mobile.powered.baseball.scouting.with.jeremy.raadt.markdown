@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Gone Mobile 52: Mobile-Powered Baseball Scouting with Jeremy Raadt"
+date: 2017-06-28 8:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0052.Mobile.Powered.Baseball.Scouting.with.Jeremy.Raadt.mp3
+duration: 00:40:16
+length: 48941321
+summary: Some jobs are just mobile by definition, such as talent scouts for baseball teams. The Minnesota Twins organization recently decided to embrace this and built a new mobile app experience for their scouts to help make their jobs easier and allow for greater collaboration and coordination across the team. In this episode we put our personal baseball allegiances aside briefly to chat with Jeremy Raadt about the app they built, how they built it, and where they see it going in the future!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Host:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Jeremy Raadt](https://www.linkedin.com/in/jeremyraadt/)
+
+**Links:** 
+
+- [Minnesota Twins Hits a Home Run with Cloud-Powered Scouting Apps](https://blog.xamarin.com/minnesota-twins-hits-home-run-cloud-powered-scouting-apps/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-mfractor-2017.markdown %}

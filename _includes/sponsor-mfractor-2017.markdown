@@ -1,8 +1,10 @@
 [![https://www.mfractor.com]({{urls.media}}/images/sponsors/mfractor2017.png)](https://www.mfractor.com)
 
-Thanks to our sponsor [MFractor](https://www.mfractor.com). 
+[MFractor](https://www.mfractor.com) seamlessly integrates with Visual Studio for Mac for a superior Xamarin development experience:
 
-[MFractor](https://www.mfractor.com) is a Xamarin.Forms productivity tool for Xamarin Studio that helps you squash XAML bugs at design time with a few clicks and effortlessly explore your projects with MVVM navigation shortcuts, XAML tooltips, image tooltips and XAML go-to declaration.
+- Easily create Xamarin.Forms apps with XAML analysis, a suite of navigation shortcuts and powerful XAML to C# code generation tools.
+- Take the sting out of Android development using resource Intellisense, a better navigation experience, a suite of Android-specific C# code analyzers and more.
+- Make day-to-day development easier with MFractors collection of C# code actions and refactorings.
+- Don't like the code that MFractor generates? Tweak it with a rich configuration engine.
 
-[Download MFractor](https://www.mfractor.com) today and start writing less boilerplate code and more app logic.  Start generating View Models, implementing missing bindings, creating bindable properties and much more all from your XAML!
-
+Build your apps faster with a single user, yearly subscription to MFractor for Visual Studio Mac for $199AUD.

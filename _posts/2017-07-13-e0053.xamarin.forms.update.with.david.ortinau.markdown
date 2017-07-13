@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Gone Mobile 53: Xamarin.Forms Update with David Ortinau"
+date: 2017-07-13 9:15
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0053.Xamarin.Forms.Update.with.David.Ortinau.mp3
+duration: 00:57:08
+length: 58569231
+summary: On this state of the Xamarin.Forms union, we are joined by long time Xamarin community member and now PM of the Xamarin.Forms team, David Ortinau.  We discuss Xamarin.Forms becoming open source, XAML Standard, Forms Embedding (and Embedded Forms), Fast Renderers, and what's next for Xamarin.Forms. 
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Host:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [David Ortinau](https://twitter.com/davidortinau)
+
+**Links:** 
+
+- [Xamarin.Forms Open Source](https://github.com/xamarin/xamarin.forms)
+- [Embedding Xamarin.Forms in Xamarin Native](https://blog.xamarin.com/unleashed-embedding-xamarin-forms-in-xamarin-native/)
+- [Glimpse the future of Xamarin.Forms 3.0](https://blog.xamarin.com/glimpse-future-xamarin-forms-3-0/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-2017.markdown %}

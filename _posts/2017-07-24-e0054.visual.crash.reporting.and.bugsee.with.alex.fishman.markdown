@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 54: Visual Crash Reporting and Bugsee with Alex Fishman"
+date: 2017-07-24 8:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0054.Visual.Crash.Reporting.and.Bugsee.with.Alex.Fishman.mp3
+duration: 00:33:07
+length: 41474522
+summary: There is no shortage of options out there for doing error and crash reporting for mobile apps, but Bugsee takes a different approach, providing a more visual and deeper set of reporting and diagnostics. In this episode we talk to Alex Fishman, founder and CEO of Bugsee, and dig into what they're offering for mobile developers.
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Host:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Alex Fishman](https://twitter.com/fishmanalex)
+
+**Links:** 
+
+- [Bugsee](https://www.bugsee.com/)
+- [Bugsee Live Demo](https://www.bugsee.com/demo)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-mfractor-2017.markdown %}

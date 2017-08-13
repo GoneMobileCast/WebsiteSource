@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Gone Mobile 55: Embeddinating .NET Everywhere with Jonathan Peppers"
+date: 2017-08-14 8:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0055.Embeddinating.NET.Everywhere.with.Jonathan.Peppers.mp3
+duration: 00:34:25
+length: 44294073
+summary: Did you know that you can take your .NET code, including Xamarin.iOS and Xamarin.Android views, even Xamarin.Forms, and reference them from native Objective-C or Java applications? In this episode we talk to Jonathan Peppers, an engineer on the team at Microsoft working on this sorcery, and dig into how it works and where it's going. It's a brave new world! 
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Host:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Jonathan Peppers](https://twitter.com/JonathanPeppers)
+
+**Links:** 
+
+- [Embeddinator-4000](https://mono.github.io/Embeddinator-4000/)
+- [NuGet Package](https://mono.github.io/Embeddinator-4000/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-2017.markdown %}

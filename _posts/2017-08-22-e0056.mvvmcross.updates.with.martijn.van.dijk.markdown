@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Gone Mobile 56: MvvmCross Updates with Martijn van Dijk"
+date: 2017-08-22 8:00
+comments: true
+categories: episodes
+mediaurl: http://traffic.libsyn.com/gonemobile/Gone.Mobile.E0056.MvvmCross.Updates.with.Martijn.van.Dijk.mp3
+duration: 00:38:42
+length: 47897697
+summary: It took a few years, but we finally did a show on MvvmCross! In this episode we're joined by Martjin van Dijk, one of the core maintainers of the project, to talk about where MvvmCross came from, what's new in it, and where it's heading!
+---
+
+{{ page.summary }}
+
+<!-- more -->
+
+{% audio %}
+
+**Host:** [Greg Shackles](http://twitter.com/gshackles), [Jon Dick](http://twitter.com/redth)
+
+**Guests:** [Martijn van Dijk](https://twitter.com/mhvdijk)
+
+**Links:** 
+
+- [MvvmCross](https://www.mvvmcross.com/)
+- [MvvmCross on GitHub](https://github.com/MvvmCross/MvvmCross)
+- [Using MvvmCross with Xamarin.Forms](https://medium.com/@martijn00/using-mvvmcross-with-xamarin-forms-part-1-eaee5815bb8c)
+- [MvvmCross Hackfest](https://www.mvvmcross.com/hackfest/)
+
+**Thanks to our Sponsors!**
+
+{% include sponsor-raygun-2017.markdown %}
